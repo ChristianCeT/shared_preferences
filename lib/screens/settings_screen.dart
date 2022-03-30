@@ -31,7 +31,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             child:
                 Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
               const Text(
-                'Ajustes',
+                'Settings',
                 style: TextStyle(fontSize: 45, fontWeight: FontWeight.w300),
               ),
               const Divider(),
